@@ -20,5 +20,10 @@ Call it in [Pawtucket2](https://github.com/collectiveaccess/pawtucket2), the CA 
 
 #### See http://r020.com.ar/tematres/demo/api/ and http://www.vocabularyserver.com/ for more Information about the API.
 
-## Video showing the vocabulary in tematres and configured in CollectiveAccess Providence
+## Videos showing the vocabulary in tematres and configured in CollectiveAccess Providence
 
+Tematres : vocabulary inside the Tematres web app interface
+	![Tematres : vocabulary inside the Tematres web app interface](https://github.com/ideesculture/ca_tematres/blob/master/screenshots/terme-thesaurus-tematres.gif?raw=true)
+
+Tematres : information service inside CollectiveAccess Providence
+	![Tematres : information service inside CollectiveAccess Providence](https://github.com/ideesculture/ca_tematres/blob/master/screenshots/information-service-tematres.gif?raw=true)
